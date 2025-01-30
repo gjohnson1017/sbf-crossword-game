@@ -10,6 +10,6 @@ function App() {
       <CrosswordPuzzle />
     </div>
   )
-}
+}  
 
 export default App
